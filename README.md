@@ -1,7 +1,7 @@
 # jsDrumKit
 Built a Drum Kit using only Vanilla Javascript
 
-Visit https://birnapwnsu.github.io/jsDrumKit/ to play with it!
+Visit https://birnadam.github.io/jsDrumKit/ to play with it!
 
-Or clone this repo: https://github.com/birnapwnsu/jsDrumKit.git
+Or clone this repo: https://github.com/birnadam/jsDrumKit.git
 and run the index.html locally.
